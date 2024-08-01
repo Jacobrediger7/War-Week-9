@@ -1,0 +1,16 @@
+{
+  "name": "week9assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "War.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.10",
+    "mocha": "^10.2.0"
+  }
+}
